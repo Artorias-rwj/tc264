@@ -1,0 +1,91 @@
+!SESSION 2021-01-24 10:32:40.637 -----------------------------------------------
+eclipse.buildId=1.3.0
+java.version=11.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_CN
+Framework arguments:  -perspective com.infineon.aurix.buildmanager.perspective.c
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -perspective com.infineon.aurix.buildmanager.perspective.c
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-01-24 10:33:51.183
+!MESSAGE Indexed '10-Interrupt_Priority_Set_Demo' (195 sources, 438 headers) in 15 sec: 96,203 declarations; 164,439 references; 2 unresolved inclusions; 877 syntax errors; 4,737 unresolved names (1.8%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-01-24 10:33:59.912
+!MESSAGE Indexed '3-PIT_Demo' (195 sources, 438 headers) in 8.72 sec: 96,203 declarations; 164,446 references; 2 unresolved inclusions; 877 syntax errors; 4,737 unresolved names (1.8%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-01-24 10:34:07.126
+!MESSAGE Indexed '11-Systick_Demo' (195 sources, 438 headers) in 7.21 sec: 96,203 declarations; 164,450 references; 2 unresolved inclusions; 877 syntax errors; 4,737 unresolved names (1.8%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-01-24 10:34:14.342
+!MESSAGE Indexed '2-LED_Blink_Demo' (195 sources, 438 headers) in 7.21 sec: 96,203 declarations; 164,475 references; 2 unresolved inclusions; 877 syntax errors; 4,737 unresolved names (1.8%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-01-24 10:34:22.252
+!MESSAGE Indexed '7-GPIO_Interrupt_Demo' (195 sources, 438 headers) in 7.91 sec: 96,202 declarations; 164,456 references; 2 unresolved inclusions; 877 syntax errors; 4,737 unresolved names (1.8%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-01-24 10:34:29.266
+!MESSAGE Indexed '8-EEPROM_Demo' (195 sources, 438 headers) in 7.01 sec: 96,211 declarations; 164,536 references; 2 unresolved inclusions; 877 syntax errors; 4,737 unresolved names (1.8%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-01-24 10:34:36.561
+!MESSAGE Indexed '4-Encoder_Demo' (195 sources, 438 headers) in 7.29 sec: 96,203 declarations; 164,453 references; 2 unresolved inclusions; 877 syntax errors; 4,737 unresolved names (1.8%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-01-24 10:34:43.632
+!MESSAGE Indexed '9-PWM_Demo' (195 sources, 438 headers) in 7.07 sec: 96,202 declarations; 164,456 references; 2 unresolved inclusions; 877 syntax errors; 4,737 unresolved names (1.8%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-01-24 10:34:50.684
+!MESSAGE Indexed '1-ADC_Demo' (195 sources, 438 headers) in 7.05 sec: 96,203 declarations; 164,452 references; 2 unresolved inclusions; 877 syntax errors; 4,737 unresolved names (1.8%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-01-24 10:34:57.672
+!MESSAGE Indexed '15-Cpu1_Handles_Interrupts_Demo' (195 sources, 438 headers) in 6.99 sec: 96,202 declarations; 164,454 references; 2 unresolved inclusions; 877 syntax errors; 4,737 unresolved names (1.8%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-01-24 10:35:04.532
+!MESSAGE Indexed '5-UART_Demo' (195 sources, 438 headers) in 6.86 sec: 96,203 declarations; 164,451 references; 2 unresolved inclusions; 877 syntax errors; 4,737 unresolved names (1.8%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-01-24 10:35:11.276
+!MESSAGE Indexed '12-Dual_Core_Demo' (195 sources, 438 headers) in 6.74 sec: 96,203 declarations; 164,457 references; 2 unresolved inclusions; 877 syntax errors; 4,737 unresolved names (1.8%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-01-24 10:35:18.267
+!MESSAGE Indexed '14-Specifies_Variable_Or_Code_Location_Demo' (195 sources, 438 headers) in 6.99 sec: 96,206 declarations; 164,442 references; 2 unresolved inclusions; 877 syntax errors; 4,737 unresolved names (1.8%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-01-24 10:35:25.896
+!MESSAGE Indexed '6-Printf_Demo' (195 sources, 438 headers) in 7.63 sec: 96,203 declarations; 164,446 references; 2 unresolved inclusions; 877 syntax errors; 4,737 unresolved names (1.8%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-01-24 10:35:32.872
+!MESSAGE Indexed 'Seekfree_TC264_Opensource_Library' (195 sources, 438 headers) in 6.98 sec: 96,202 declarations; 164,460 references; 2 unresolved inclusions; 877 syntax errors; 4,737 unresolved names (1.8%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-01-24 10:35:40.801
+!MESSAGE Indexed '13-FFT_Demo' (197 sources, 444 headers) in 7.93 sec: 96,464 declarations; 165,406 references; 2 unresolved inclusions; 877 syntax errors; 4,737 unresolved names (1.8%)
+
+!ENTRY com.tasking.debug.cdt.core 4 150 2021-01-24 10:38:39.104
+!MESSAGE Error creating session 
+!SUBENTRY 1 com.tasking.debug.cdt.core 4 150 2021-01-24 10:38:39.104
+!MESSAGE The debug instrument IO could not be initialized.
+!SUBENTRY 1 com.tasking.debug.cdt.core 4 150 2021-01-24 10:38:39.104
+!MESSAGE The GDI debug instrument provided the following error message.
+!SUBENTRY 1 com.tasking.debug.cdt.core 4 150 2021-01-24 10:38:39.104
+!MESSAGE Could not open Access HW
+
+!ENTRY com.tasking.debug.cdt.core 4 150 2021-01-24 10:39:31.929
+!MESSAGE Error creating session 
+!SUBENTRY 1 com.tasking.debug.cdt.core 4 150 2021-01-24 10:39:31.929
+!MESSAGE The debug instrument IO could not be initialized.
+!SUBENTRY 1 com.tasking.debug.cdt.core 4 150 2021-01-24 10:39:31.929
+!MESSAGE The GDI debug instrument provided the following error message.
+!SUBENTRY 1 com.tasking.debug.cdt.core 4 150 2021-01-24 10:39:31.929
+!MESSAGE Could not open Access HW
+
+!ENTRY com.tasking.debug.cdt.core 4 150 2021-01-24 10:41:58.727
+!MESSAGE Error creating session 
+!SUBENTRY 1 com.tasking.debug.cdt.core 4 150 2021-01-24 10:41:58.727
+!MESSAGE The debug instrument IO could not be initialized.
+!SUBENTRY 1 com.tasking.debug.cdt.core 4 150 2021-01-24 10:41:58.727
+!MESSAGE The GDI debug instrument provided the following error message.
+!SUBENTRY 1 com.tasking.debug.cdt.core 4 150 2021-01-24 10:41:58.727
+!MESSAGE Could not open Access HW
+
+!ENTRY com.tasking.debug.cdt.core 4 150 2021-01-24 10:43:42.872
+!MESSAGE Error creating session 
+!SUBENTRY 1 com.tasking.debug.cdt.core 4 150 2021-01-24 10:43:42.872
+!MESSAGE The debug instrument IO could not be initialized.
+!SUBENTRY 1 com.tasking.debug.cdt.core 4 150 2021-01-24 10:43:42.872
+!MESSAGE The GDI debug instrument provided the following error message.
+!SUBENTRY 1 com.tasking.debug.cdt.core 4 150 2021-01-24 10:43:42.872
+!MESSAGE Could not open Access HW
